@@ -1,5 +1,6 @@
+<samp>
 <div align="center">
-    <p align="center"><img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/eva-01-bar.png"/></p>
+    <p><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/green-to-black.png" alt="Header Image" /></p>
     <p align="center"><img src="https://raw.githubusercontent.com/leomoreno11/leomoreno11/main/materials/makoto-contemplating.gif"/></p>
     <h1 align="center">build_your_own_x</h1>
 </div>
@@ -11,4 +12,5 @@
 
 <br>
 <p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/120078.jpg"/></p>
-<p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/eva-01-bar-inver.png"/></p>
+<p align="center"><img src="https://github.com/leomoreno11/leomoreno11/blob/main/materials/black-to-green.png" alt="Footer Image" /></p>
+</samp>
