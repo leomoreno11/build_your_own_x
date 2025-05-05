@@ -6,7 +6,7 @@
 </div>
 
   - ### What is this repo?
-    - Projects that I've made following the [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repo. 
+    - Projects that I've made following the [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) repo (or literally from anywhere that I find a cool and well documented project to code along and lear).
     - Just fun projects that I use to learn on how things work on different topics.
     - Updated as I have free time from professional projects.
 

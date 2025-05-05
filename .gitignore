@@ -1,0 +1,50 @@
+# Binaries for programs and plugins
+*.out
+
+# Test binary
+*.test
+
+# Go build artifacts
+bin/
+build/
+dist/
+
+# Dependency directories (if you are using vendoring)
+vendor/
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Go module files backup
+go.sum
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+*.tmp
+
+# Coverage files
+coverage.*
+*.coverprofile
+*.cov
+
+# Local environment variables
+.env
+.env.*
+
+# Specific to Linux
+*~
